@@ -26,7 +26,7 @@ Java tabanlı, PDF formatında otomatik özgeçmiş (CV) oluşturan uygulama.
 - IntelliJ IDEA (tercihen)
 
 ### Adımlar
-1. Projeyi klonlayın:
+1. Projeyi kopyalayın:
 ```bash
 git clone https://github.com/kullaniciadin/ozgecmis-projesi.git
 ```
