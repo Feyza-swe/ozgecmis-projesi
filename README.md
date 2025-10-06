@@ -31,12 +31,12 @@ Java tabanlı, PDF formatında otomatik özgeçmiş (CV) oluşturan uygulama.
 git clone https://github.com/kullaniciadin/ozgecmis-projesi.git
 ```
 
- 2 .Proje dizinine gidin:
+2. Proje dizinine gidin:
 ```bash
 cd ozgecmis-projesi
 ```
 
- 3 .Maven bağımlılıklarını yükleyin:
+3. Maven bağımlılıklarını yükleyin:
 ```bash
 mvn clean install
 ```
